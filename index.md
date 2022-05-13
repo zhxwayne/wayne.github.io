@@ -1,8 +1,6 @@
 ## Welcome to Wayne Pages
 
 ![](https://raw.githubusercontent.com/zhxwayne/pic/main/img/LuciolaCruciata_ZH-CN9063767400_1920x1080.jpg)
-
-
 ---
 
 **《山月》**
@@ -42,7 +40,6 @@
 
 
 ***
-
 
 
 
